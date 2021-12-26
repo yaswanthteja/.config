@@ -2,8 +2,8 @@
 # MY  Powershell Setup! 👋
 
 First download latest Powershell and windows terminal  from microsoft store
-
-https://github.com/yaswanthteja/.config/blob/main/powershell1.png
+# Demo
+ ![Screenshot](https://github.com/yaswanthteja/.config/blob/main/powershell1.png)
 
 ## Pre-Requirments
 - [Nerdfonts](https://github.com/ryanoasis/nerd-fonts/releases) -  My personal choice (hack font)
