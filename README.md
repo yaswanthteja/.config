@@ -3,6 +3,8 @@
 
 First download latest Powershell and windows terminal  from microsoft store
 
+https://github.com/yaswanthteja/.config/blob/main/powershell1.png
+
 ## Pre-Requirments
 - [Nerdfonts](https://github.com/ryanoasis/nerd-fonts/releases) -  My personal choice (hack font)
 Download  hack.zip and extract the zip file and install the fonts. consists like this(hack of Nerd Complete mono windows  compatable (opentype)
