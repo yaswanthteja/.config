@@ -35,7 +35,7 @@ It will install git to windows
 - Next  create a user profile 
 
 - You  can do this in two methods
-@@@@@@@@@@@@@@@@1 Simple method @@@@@@@@@@@@@@@
+@@@@1 Simple method @@@@
 
 1.Download [.config](https://github.com/yaswanthteja/.config) folder and move this folder  to ( C:\Users\your username\) 
  if you want to find user name just press windows+R or open run and type this 'netplwiz' then it will show  it will show your   username.
@@ -61,7 +61,7 @@ And Continue this Process
 - If you uses the above 1st  method skip the 2nd method to avoid errors
 
 
--@@@@@@@@@@@@@@@@@@@@@@@@ 2 method @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+-@@@@@@@@@@@ 2 method @@@@@@@@@@@@@@@@
 - ### 2.ManualProcess
 
  ######skip the following steps from here#######
@@ -90,8 +90,8 @@ so you need  to follow the first method.
 
   In the same way you need to create another file and paste the text into it
 
-######################### skip upto here#########################################
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+######################### skip upto here#######################
+
 
 
 
