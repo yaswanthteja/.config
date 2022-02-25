@@ -61,7 +61,7 @@ And Continue this Process
 - If you uses the above 1st  method skip the 2nd method to avoid errors
 
 
--@@@@@@@@@@@ 2 method @@@@@@@@@@@@@@@@
+-@@@@@@@@@@@ # 2 method @@@@@@@@@@@@@@@@
 - ### 2.ManualProcess
 
  ######skip the following steps from here#######
@@ -90,10 +90,10 @@ so you need  to follow the first method.
 
   In the same way you need to create another file and paste the text into it
 
-######################### skip upto here#######################
+### skip  upto here ### -------------------------------------------------------------------------------
 
 
-
+Now type these in windows terminal
 
 
 # Install oh My Posh to powershell
