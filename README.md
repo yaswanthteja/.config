@@ -1,16 +1,38 @@
+For detail information click on the link, you will go through the detailed article 
 
+# [clickhere](https://dev.to/yaswanthteja/windows-powershell-customization-without-wsl-5f26)
 # MY  Powershell Setup! 👋
 
-First download latest Powershell and windows terminal  from microsoft store
+First download latest [Powershell](https://www.microsoft.com/store/productId/9N0DX20HK701) and [windows terminal](https://www.microsoft.com/store/productId/9MZ1SNWT0N5D
+)  from microsoft store
+
+
+
+
 # Demo
  ![Screenshot](https://github.com/yaswanthteja/.config/blob/main/powershell1.png)
 
 ## Pre-Requirments
-- [Nerdfonts](https://github.com/ryanoasis/nerd-fonts/releases) -  My personal choice (hack font)
+
+- Hack (NerdFonts) - A Powerline patched font
+- Scoop - A command-line installer
+- Oh My Posh -prompt theme engine
+- Terminal-Icons - file and folder icons
+- psReadline - Cmdlets for customizing the editing environment, used for autocompletion
+- Z -Directory jumper
+- Fzf, PSFzf - Fuzzy finder
+
+
+# Install font
+
+ [Nerdfonts](https://github.com/ryanoasis/nerd-fonts/releases) -  My personal choice [hack font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip)
 Download  hack.zip and extract the zip file and install the fonts. consists like this(hack of Nerd Complete mono windows  compatable (opentype)
+
 
 # Install scoop to powershell
  - [scoop](https://scoop.sh/) - A command-line installer , type the following commands in powershell
+ 
+ Open windows terminal and type the following commands to install scoop
 
 ```bash
  iwr -useb get.scoop.sh | iex
