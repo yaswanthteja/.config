@@ -127,6 +127,12 @@ Now type these in windows terminal
 
  Install -Module oh-my-posh -Scope CurrentUser -Force
  ```
+
+- Location for nvm
+```
+C:\ProgramData\nvm
+```
+
   # Install nvm  in power shell
  ```bash 
  scoop install nvm
