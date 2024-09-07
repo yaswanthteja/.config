@@ -1,6 +1,6 @@
 For detail information click on the link, you will go through the detailed article 
 
-# [clickhere](https://dev.to/yaswanthteja/windows-powershell-customization-without-wsl-5f26)
+### [clickhere](https://dev.to/yaswanthteja/windows-powershell-customization-without-wsl-5f26)
 # MY  Powershell Setup! 👋
 
 First download latest [Powershell](https://www.microsoft.com/store/productId/9N0DX20HK701) and [windows terminal](https://www.microsoft.com/store/productId/9MZ1SNWT0N5D
