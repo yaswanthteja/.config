@@ -1,2 +1,7 @@
 
 ## Neovim Configs
+
+
+- Lazyvim
+
+
