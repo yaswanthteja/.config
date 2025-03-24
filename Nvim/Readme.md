@@ -2,6 +2,6 @@
 ## Neovim Configs
 
 
-- Lazyvim
+- [Lazyvim](https://www.lazyvim.org/)
 
 
