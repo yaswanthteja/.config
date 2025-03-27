@@ -7,10 +7,10 @@
 
 
 
-# Install scoop to powershell
+###  Install scoop to powershell
  - [scoop](https://scoop.sh/) - A command-line installer , type the following commands in powershell
  
- Open windows terminal and type the following commands to install scoop
+ Open Windows Terminal and type the following commands to install Scoop
 
 ```bash
  iwr -useb get.scoop.sh | iex
@@ -30,3 +30,9 @@ scoop install lazygit
 scoop install luarocks
 scoop install fd ripgrep
 ```
+
+
+
+
+
+
