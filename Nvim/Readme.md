@@ -31,6 +31,7 @@ scoop install luarocks
 scoop install fd ripgrep
 ```
 
+- clone this repo  to lua folder
 
 
 
