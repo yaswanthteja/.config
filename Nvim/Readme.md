@@ -32,6 +32,7 @@ scoop install fd ripgrep
 ```
 
 - clone this repo  to lua folder
+- Now run nvim in your terminal
 
 
 
