@@ -33,6 +33,7 @@ scoop install fd ripgrep
 
 - clone this repo  to lua folder
 - Now run nvim in your terminal
+- Lazyvim automatically install all the plugins
 
 
 
