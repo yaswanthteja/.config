@@ -8,7 +8,7 @@
 
 
 ###  Install scoop to powershell
- - [scoop](https://scoop.sh/) - A command-line installer , type the following commands in powershell
+ - [scoop](https://scoop.sh/) - A command-line installer, type the following commands in powershell
  
  Open Windows Terminal and type the following commands to install Scoop
 
@@ -33,7 +33,10 @@ scoop install fd ripgrep
 
 - clone this repo  to lua folder
 - Now run nvim in your terminal
-- Lazyvim automatically install all the plugins
+- Lazyvim automatically installs all the plugins
+- Now we can run nvim in terminal
+
+
 
 
 
