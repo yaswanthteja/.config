@@ -35,6 +35,7 @@ scoop install fd ripgrep
 - Now run nvim in your terminal
 - Lazyvim automatically installs all the plugins
 - Now we can run nvim in terminal
+- You can learn nvim shortcuts from here
 
 
 
