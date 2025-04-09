@@ -2,3 +2,6 @@
 
 - nvim
 - powershell
+
+
+- This repo contains custom config files  
