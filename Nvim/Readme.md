@@ -41,11 +41,11 @@ scoop install fd ripgrep
 
   -  install terminal
     ```
-pacman -S make
-
+    pacman -S make
+ 
     ```
 - install fish terminal
   ```
-pacman -S fish
+   pacman -S fish
   ```
 
