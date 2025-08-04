@@ -37,9 +37,15 @@ scoop install fd ripgrep
 - Now we can run nvim in terminal
 - You can learn nvim shortcuts from here
 
+- [MSYS2](https://www.msys2.org/)
 
+  -  install terminal
+    ```
+pacman -S make
 
-
-
-
+    ```
+- install fish terminal
+  ```
+pacman -S fish
+  ```
 
