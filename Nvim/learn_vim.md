@@ -26,7 +26,7 @@ To enter Normal Mode, press `Esc`.
 - `-` → Decreases the number under the cursor (`Ctrl-x`)
 
 ### 3. Selecting Text
-- `<C-a>` → Selects all text  
+- `<Ctrl-a>` → Selects all text  
   Press `Ctrl-a` in normal mode
 
 ### 4. Tabs & Splits
@@ -48,13 +48,13 @@ To enter Normal Mode, press `Esc`.
 - `sl` → Move right (`Ctrl-w l`)
 
 ### 5. Resizing Windows
-- `<C-w><Left>` → Shrinks the window
-- `<C-w><Right>` → Expands the window
-- `<C-w><Up>` → Increases height
-- `<C-w><Down>` → Decreases height
+- `<Ctrl-w><Left>` → Shrinks the window
+- `<Ctrl-w><Right>` → Expands the window
+- `<Ctrl-w><Up>` → Increases height
+- `<Ctrl-w><Down>` → Decreases height
 
 ### 6. Diagnostics (Errors & Warnings)
-- `<C-j>` → Jump to the next error or warning  
+- `<Ctrl-j>` → Jump to the next error or warning  
   Press `Ctrl-j`
 
 ## Step 3: Practicing These Bindings
@@ -71,9 +71,9 @@ Try each keybinding above:
 - Split windows with `ss` and `sv`
 - Move between splits with `sh`, `sj`, `sk`, `sl`
 
-- Resize splits with `<C-w><left/right/up/down>`
+- Resize splits with `<Ctrl-w><left/right/up/down>`
 
 - Try pasting with `<Leader>p` (`\p`)
 
-- Jump to errors with `<C-j>`
+- Jump to errors with `<Ctrl-j>`
 
